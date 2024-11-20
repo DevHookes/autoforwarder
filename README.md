@@ -1,7 +1,7 @@
 >> Get your API ID AND HASH FOR AUTO FORWARDING
 >> https://youtu.be/8naENmP3rg4?si=K1e-Vf0mxQJL-SmD'
 
-```DEVSCOTT AUTO FORWARDER BOT```
+```DEVHOOKES AUTO FORWARDER BOT```
 
 
 Firstly on your terminal run this 
@@ -24,7 +24,7 @@ the parts that says (there are mant pick one on line 142)>
 ```bash
 "<b>No Active Subscription, Please contact</b> <a href=\"tg://resolve?domain=devscottreal\">Admin</a>",
 ```
-replace my username "devscottreal" with yours, Highlight the username, right click, press "Change al Occurence"
+replace my username "roberthooke321" with yours, Highlight the username, right click, press "Change al Occurence"
 so it will change my user name every where.
 
 you should know now to run the script.
